@@ -1,6 +1,9 @@
 
 # FARS
 
+<!-- badges: start -->
+  [![Travis build status](https://travis-ci.com/CTBushong/FARS.svg?branch=master)](https://travis-ci.com/CTBushong/FARS)
+  <!-- badges: end -->
 
 
 Functions fusing DOT Fatality Analysis Reporting System data for years 2013 - 2015.
