@@ -1,0 +1,21 @@
+---
+title: "fars_tools"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{fars_tools}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(FARS)
+
+fars_map_state(12, 2015)
+```

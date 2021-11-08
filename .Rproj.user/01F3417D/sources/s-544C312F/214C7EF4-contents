@@ -1,7 +1,9 @@
 
 # fars
 
-
+<!-- badges: start -->
+[![Travis build status](https://travis-ci.com/GiuliaPais/BuildingRpackagesFinalAssigment.svg?branch=master)](https://travis-ci.com/GiuliaPais/BuildingRpackagesFinalAssigment)
+<!-- badges: end -->
 
 Utility functions for the analysis of Fatality Analysis Reporting System files.
 

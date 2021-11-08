@@ -2,10 +2,10 @@ Package: fars
 Title: Utility functions for the analysis of Fatality Analysis Reporting System files
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "Giulia",
-           family = "Pais",
+    person(given = "Chris",
+           family = "Bushong",
            role = c("aut", "cre"),
-           email = "giuliapais1@gmail.com")
+           email = "Chris.bushong@gmail.com")
 Description: Provides a set of utility functions to read and summarize  Fatality Analysis Reporting System files.
   It's possible to read sigle files given the path on disk or provide a year and construct a path for import.
   Summarizes operations comprise the count of accidents in a file grouped by year and month, and a plotting function
