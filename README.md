@@ -1,14 +1,14 @@
 
-# fars
+# FARS
 
 
 
-Utility functions for the analysis of Fatality Analysis Reporting System files.
+Functions fusing DOT Fatality Analysis Reporting System data for years 2013 - 2015.
 
 
 ## Installation
 
-You can install the released version of fars by running:
+Run
 
 ``` r
 if(!requireNameSpace("devtools"))
